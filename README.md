@@ -10,11 +10,30 @@ See `requirements.txt` and `environment.yaml` for the python environment.
 
 **GPU**
 
-All experiments can be run on a single 1080Ti GPU within 6 hours.
+Each experiment can be run on a single 1080Ti GPU within 6 hours.
 
 ## Data
 
-TODO
+like:
+```
+1	法	_	NR	_	_	3	VMOD	_	_
+2	正	_	AD	_	_	3	VMOD	_	_
+3	研究	_	VV	_	_	0	ROOT	_	_
+4	从	_	P	_	_	6	VMOD	_	_
+5	波黑	_	NR	_	_	4	PMOD	_	_
+6	撤军	_	VV	_	_	7	NMOD	_	_
+7	计划	_	NN	_	_	3	VMOD	_	_
+
+1	新华社	_	NR	_	_	8	DEP	_	_
+2	巴黎	_	NR	_	_	8	DEP	_	_
+3	９月	_	NT	_	_	8	DEP	_	_
+4	１日	_	NT	_	_	8	DEP	_	_
+5	电	_	NN	_	_	8	DEP	_	_
+6	（	_	PU	_	_	8	P	_	_
+7	记者	_	NN	_	_	8	DEP	_	_
+8	张有浩	_	NR	_	_	0	ROOT	_	_
+9	）	_	PU	_	_	8	P	_	_
+```
 
 <!-- ### Stanford Dependencies
 
